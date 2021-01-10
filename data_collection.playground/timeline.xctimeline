@@ -2,5 +2,15 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/whitehat/Desktop/mobile_application/ios_native/data_collection.playground#CharacterRangeLen=1039&amp;CharacterRangeLoc=13&amp;EndingColumnNumber=49&amp;EndingLineNumber=27&amp;StartingColumnNumber=0&amp;StartingLineNumber=1&amp;Timestamp=631912288.95078"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/whitehat/Desktop/mobile_application/ios_native/data_collection.playground#CharacterRangeLen=1039&amp;CharacterRangeLoc=13&amp;EndingColumnNumber=49&amp;EndingLineNumber=27&amp;StartingColumnNumber=0&amp;StartingLineNumber=1&amp;Timestamp=631912288.950922"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
